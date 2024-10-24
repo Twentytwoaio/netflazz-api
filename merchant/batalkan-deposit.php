@@ -1,5 +1,5 @@
 <?php
-
+ 
 // API endpoint dan parameter
 $api_url = 'https://api.nf22.my.id/merchant';
 $api_key = 'xxxxxxxxxxxxxxxxxxxxx'; // Ganti dengan api key anda
