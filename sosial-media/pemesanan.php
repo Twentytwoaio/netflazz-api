@@ -1,10 +1,11 @@
 <?php
 
 // API endpoint dan parameter (gunakan salah satu URL SOSMED sesuai kebutuhan)
-$api_url = 'https://netflazz.com/api/sosmed'; // Sosial media 1
-$api_url = 'https://netflazz.com/api/sosmed2'; // Sosial media 2
-$api_url = 'https://netflazz.com/api/sosmed3'; // Sosial media 3
-$api_key = 'CxiSNq6bzaxWCTF5l75Caxxxxxxx'; // Ganti dengan api key anda
+$api_url = 'https://api.nf22.my.id/sosmed'; // Sosial media 1
+$api_url = 'https://api.nf22.my.id/sosmed2'; // Sosial media 2
+$api_url = 'https://api.nf22.my.id/sosmed3'; // Sosial media 3
+$api_key = 'xxxxxxxxxxxxxxxxxxxxxx'; // Ganti dengan api key anda
+$pin = '1234'; // Ganti dengan pin anda
 $action = 'pemesanan';
 $layanan_id = '123'; // Ganti dengan Service ID yang sesuai
 $target = 'https://example.com'; // Ganti dengan link atau target sosial media
@@ -13,6 +14,7 @@ $jumlah = 100; // Ganti dengan jumlah pemesanan yang diinginkan
 // Data yang akan dikirim sebagai payload
 $postdata = [
     'api_key' => $api_key,
+    'pin' => $pin,
     'action' => $action,
     'layanan_id' => $layanan_id,
     'target' => $target,
