@@ -1,13 +1,15 @@
 <?php
 
 // API endpoint dan parameter
-$api_url = 'https://netflazz.com/api/pascabayar';
-$api_key = 'CxiSNq6bzaxWCTF5l75Caxxxxxxx'; // Ganti dengan api key anda
+$api_url = 'https://api.nf22.my.id/pascabayar';
+$api_key = 'xxxxxxxxxxxxxxxxxxxxx'; // Ganti dengan api key anda
+$pin = '1234'; // Ganti dengan pin anda
 $action = 'cek-tagihan';
 
 // Data yang akan dikirim sebagai payload
 $postdata = [
     'api_key' => $api_key,
+    'pin' => $pin,
     'action' => $action,
     'layanan' => 'Service_ID_Layanan', // Gantilah dengan Service ID Layanan yang sesuai
     'target' => 'Nomor_Tujuan', // Gantilah dengan nomor tujuan yang sesuai
