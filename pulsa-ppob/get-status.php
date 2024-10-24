@@ -1,14 +1,16 @@
 <?php
 
 // API endpoint dan parameter
-$api_url = 'https://netflazz.com/api/pulsa';
-$api_key = 'CxiSNq6bzaxWCTF5l75Caxxxxxxx'; // Ganti dengan api key anda
+$api_url = 'https://api.nf22.my.id/prabayar';
+$api_key = 'xxxxxxxxxxxxxxxxxxxxx'; // Ganti dengan api key anda
+$pin = '1234'; // Ganti dengan pin anda
 $action = 'status';
 $order_id = '40'; // Ganti dengan Order ID yang sesuai
 
 // Data yang akan dikirim sebagai payload
 $postdata = [
     'api_key' => $api_key,
+    'pin' => $pin,
     'action' => $action,
     'id' => $order_id,
 ];
