@@ -6,7 +6,8 @@ $data = array(
     'api_key' => 'xxxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan API key Anda yang sesuai
     'pin' => '1234',                        // Ganti dengan PIN NetFlazz Anda
     'action' => 'chat',
-    'text' => $isi_pertanyaan           // Contoh teks yang akan dikirim ke API BOTNET
+    'text' => $isi_pertanyaan,           // Contoh teks yang akan dikirim ke API BOTNET
+    'prompt' => ''                       // Kosongkan jika ingin menggunakan prompt default dan masukan prompt jika ingin menggunakan custome prompt
 );
 
 // Inisialisasi cURL
