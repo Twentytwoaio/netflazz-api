@@ -41,7 +41,7 @@ if ($json_result['status'] == true) {
         echo "Layanan: " . $service['layanan'] . "<br>";
         echo "Harga: " . $service['harga'] . "<br>";
         echo "Status: " . $service['status'] . "<br>";
-        echo "Keterangan: " . $service['keterangan'] . "<br><br>";
+        echo "Keterangan: " . $service['catatan'] . "<br><br>";
     }
 } else {
     echo "Pengambilan layanan gagal. Pesan: " . $json_result['data']['pesan'];
