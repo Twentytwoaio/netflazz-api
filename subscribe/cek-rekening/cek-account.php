@@ -1,14 +1,14 @@
 <?php
 // URL API Anda
-$url = "https://api.nf22.my.id/subscribe/ewallet.php";
+$url = "https://api.nf22.my.id/subscribe/rekening.php";
 
 // Data yang akan dikirimkan via POST
 $data = [
     'api_key' => 'xxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan API Key Anda
     'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx',          // Ganti dengan PIN Anda
     'action' => 'cek',        // Mengambil data cek akun
-    'ewalletCode' => 'SHOPEEPAY',      // Ewallet Code yang ingin dicek
-    'accountNumber' => 'No Ewallet'  // Nomor Akun yang ingin dicek
+    'bankCode' => '270',      // Bank Code yang ingin dicek
+    'accountNumber' => 'No Rekening'  // Nomor Akun yang ingin dicek
 ];
 
 // Inisiasi cURL
