@@ -1,12 +1,12 @@
 Berikut penjelasan detail dari kedua jenis API tersebut:
 
-### **Paid API**  
+### Paid API 
 Paid API adalah layanan API yang mengharuskan pengguna untuk memiliki Saldo Digital atau Saldo Diamond agar dapat menggunakan fitur-fitur yang disediakan.  
 - Saldo Digital dan Saldo Diamond berfungsi sebagai metode pembayaran untuk setiap transaksi atau permintaan data yang dilakukan melalui API ini.  
 - Pengguna hanya membayar sesuai dengan jumlah transaksi atau permintaan yang dilakukan, dengan saldo yang akan berkurang secara otomatis.  
 - Contoh penggunaan Paid API: Top-up pulsa, pembelian token listrik, atau layanan sejenis lainnya.
 
-### **Subscribe API**  
+### Subscribe API
 Subscribe API adalah layanan API yang dirancang khusus untuk pengguna yang ingin berlangganan dengan sistem pembayaran berbasis durasi bulanan.  
 - Pengguna tidak perlu memiliki Saldo Digital atau Saldo Diamond untuk menggunakan layanan ini.  
 - Setelah membayar biaya langganan bulanan, pengguna dapat mengakses API secara bebas tanpa batasan transaksi selama periode langganan aktif.  
@@ -14,10 +14,10 @@ Subscribe API adalah layanan API yang dirancang khusus untuk pengguna yang ingin
 - API ini sangat cocok untuk bisnis atau pengguna yang membutuhkan penggunaan intensif dengan biaya tetap setiap bulan.  
 - Contoh penggunaan Subscribe API: Akses data statistik, layanan otomatisasi, atau integrasi yang memerlukan penggunaan rutin.
 
-### **Perbandingan Singkat**
+### Perbandingan Singkat
 | Fitur                  | Paid API                        | Subscribe API                    |
-|------------------------|----------------------------------|----------------------------------|
-| **Metode Pembayaran**  | Saldo Digital/Diamond           | Langganan bulanan               |
+|------------------------|---------------------------------|----------------------------------|
+| **Metode Pembayaran**  | Saldo Digital/Diamond           | Langganan bulanan                |
 | **Kebutuhan Saldo**    | Ya                              | Tidak                            |
 | **Durasi Akses**       | Berdasarkan jumlah saldo        | Berdasarkan periode langganan    |
 | **Jenis Penggunaan**   | Transaksi fleksibel             | Penggunaan rutin tanpa batas     |
