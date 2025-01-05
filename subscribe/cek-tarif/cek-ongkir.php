@@ -4,8 +4,8 @@ $url = "https://api.nf22.my.id/subscribe/cek-tarif.php";
 
 // Data yang akan dikirimkan via POST
 $data = [
-    'api_key' => 'xxxx',      // Ganti dengan API Key Anda
-    'secret_key' => 'xx1234',  // Ganti dengan Secret Key Anda
+    'api_key' => 'xxxxxxxxxxxxxxxxxxxxx',      // Ganti dengan API Key Anda
+    'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan Secret Key Anda
     'action' => 'cekOngkir',        // Action Jangan Diubah
     'courier' => 'jne',            // Ubah Dengan Expedisi (jne/sicepat/anteraja/lion/sap/pos/ide)
     'origin' => 'jakarta',            // nama kota/kab ambil dari cek wilayah ongkir (lokasi pengirim)
