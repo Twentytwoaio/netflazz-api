@@ -6,8 +6,8 @@ $url = 'https://api.nf22.my.id/subscribe/pln.php';
 // Data yang akan dikirim sebagai payload
 $postdata = [
     'api_key' => 'xxxxxxxxxxxxxxxxxxxxx', // Ganti dengan API Key Anda
-    'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx', // Ganti dengan API Key Anda
-    'action' => 'prabayar',
+    'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx', // Ganti dengan Secret Key Anda
+    'action' => 'prabayar',                   // Action Jangan Diubah
     'target' => '5660xxxxx', // Gantilah dengan nomor Meteran/ID Meterang yang ingin dicek
 ];
 
