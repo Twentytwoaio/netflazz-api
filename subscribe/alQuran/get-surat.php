@@ -7,7 +7,7 @@ $data = [
     'api_key' => 'xxxxxxxxxxxxxxxxxxxxx',      // Ganti dengan API Key Anda
     'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan Secret Key Anda
     'action' => 'listSurat',        // Action Jangan Diubah
-    'nomor' => '1' // Ganti dengan nomor surat (kosongkan jika nilai jika ingin mengamil semua surat)
+    'nomor' => '1' // Ganti dengan nomor surat (kosongkan jika ingin mengambil semua surat)
 ];
 
 // Inisiasi cURL
