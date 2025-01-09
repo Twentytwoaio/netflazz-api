@@ -4,11 +4,11 @@ $url = "https://api.nf22.my.id/subscribe/ai2.php";
 
 // Data yang akan dikirimkan via POST
 $data = [
-    'api_key' => 'xxxx',      // Ganti dengan API Key Anda
-    'secret_key' => 'xx1234',  // Ganti dengan Secret Key Anda
+    'api_key' => 'xxxxxxxxxxxxxxxxxxxxx',      // Ganti dengan API Key Anda
+    'secret_key' => 'xxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan Secret Key Anda
     'action' => 'tokohChatAI',        // Action Jangan Diubah
-    'tokoh' => 'mark zuckerberg', // Ganti dengan nomor surat
-    'message' => 'siapa kamu?'
+    'tokoh' => 'mark zuckerberg', // Ganti dengan dengan tokoh yang populer yang anda inginkan
+    'message' => 'siapa kamu?' // Ubah dengan pesan anda
 ];
 
 // Inisiasi cURL
