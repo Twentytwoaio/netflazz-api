@@ -16,7 +16,7 @@ $postdata = [
     'email' => 'sample@gmail.com', // Email pelanggan atau member anda
     'pembayaran' => '85', // ID pembayaran, misal BCA Virtual Account
     'jumlah' => '10000', // Jumlah deposit
-    'return_url' => 'https://example.com', // Url invoice anda untuk melakukan tombol kembali pada invoice merchant
+    'return_url' => 'https://example.com' // Url invoice anda untuk melakukan tombol kembali pada invoice merchant
 ];
 
 // Inisialisasi cURL
