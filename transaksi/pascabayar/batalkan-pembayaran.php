@@ -4,6 +4,7 @@
 $api_url = 'https://api.nf22.my.id/pascabayar';
 $api_key = 'xxxxxxxxxxxxxxxxxxxxx'; // Ganti dengan api key anda
 $pin = '1234'; // Ganti dengan pin anda 
+$action = 'batalkan'; // Action Jangan diubah
 
 // Data yang akan dikirim sebagai payload
 $postdata = [
