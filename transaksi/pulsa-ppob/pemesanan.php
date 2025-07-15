@@ -16,7 +16,6 @@ $postdata = [
     'action' => $action,
     'layanan' => $layanan,
     'target' => $target,
-    'no_meter' => $no_meter,
 ];
 
 // Inisialisasi cURL
