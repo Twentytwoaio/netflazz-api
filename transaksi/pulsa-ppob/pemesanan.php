@@ -7,7 +7,6 @@ $pin = '1234'; // Ganti dengan pin anda
 $action = 'pemesanan';
 $layanan = '123'; // Ganti dengan Service ID yang sesuai
 $target = '08123456789'; // Ganti dengan nomor HP atau tujuan lainnya
-$no_meter = '08123456789'; // Ganti dengan nomor HP jika pemesanan pulsa
 
 // Data yang akan dikirim sebagai payload
 $postdata = [
