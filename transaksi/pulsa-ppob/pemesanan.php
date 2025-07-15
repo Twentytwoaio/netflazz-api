@@ -14,7 +14,7 @@ $postdata = [
     'api_key' => $api_key,
     'pin' => $pin,
     'action' => $action,
-    'layanan_id' => $layanan_id,
+    'layanan' => $layanan_id,
     'target' => $target,
     'no_meter' => $no_meter,
 ];
