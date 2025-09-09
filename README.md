@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://netflazz.com/app/assets/images/app/netflazz.png" alt="NetFlazz Logo" width="120" />
+</p>
+
 <h1 align="center">🌐 NetFlazz API Center</h1>
 
 <p align="center">
@@ -25,17 +29,11 @@ Dengan infrastruktur modern, **NetFlazz menjadi pusat API server terbanyak di In
 ---
 
 ## 🌟 Kenapa NetFlazz?
-- 🏢 **Pusat API Terbesar** → Ribuan produk & layanan terkoneksi langsung  
-- ⚡ **Kecepatan Tinggi** → Optimasi server untuk response time instan  
-- 🔒 **Keamanan Kuat** → Signature & validasi multi-layer  
-- 📡 **Realtime Monitoring** → Status layanan transparan  
-- 🤝 **Integrasi Luas** → Mendukung Buyer & Seller (Digiflazz, dll.)  
-
----
-
-## 📂 Struktur Project
-
-
+✨ **Pusat API Terbesar** → Ribuan produk & layanan terkoneksi langsung  
+⚡ **Kecepatan Tinggi** → Optimasi server untuk response time instan  
+🔒 **Keamanan Kuat** → Signature & validasi multi-layer  
+📡 **Realtime Monitoring** → Status layanan transparan  
+🤝 **Integrasi Luas** → Mendukung Buyer & Seller (Digiflazz, dll.)  
 
 ---
 
