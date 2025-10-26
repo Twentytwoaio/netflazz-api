@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://netflazz.com/app/assets/images/app/netflazz.png" alt="NetFlazz Logo" width="120" />
+  <img src="https://github.com/Twentytwoaio/netflazz-api/blob/main/logo.png" alt="NetFlazz Logo" width="320" />
 </p>
 
 <h1 align="center">🌐 NetFlazz API Center</h1>
@@ -15,25 +15,86 @@
 
 ## 🚀 Tentang NetFlazz
 **NetFlazz** adalah pusat integrasi API digital terbesar yang menghubungkan berbagai layanan dalam satu ekosistem.  
-Kami menyediakan **ribuan koneksi server API** untuk memenuhi kebutuhan:
-
-- 📱 Pulsa & Paket Data  
-- ⚡ PPOB (PLN, PDAM, BPJS, dan lainnya)  
-- 💳 E-Money & Wallet  
-- 📡 Pascabayar & Prabayar  
-- 🌐 Layanan Sosial Media (SMM)  
-- 🔔 Sistem Subscribe & Notifikasi otomatis  
-
-Dengan infrastruktur modern, **NetFlazz menjadi pusat API server terbanyak di Indonesia**, siap melayani skala kecil hingga enterprise.
+Kami menyediakan **ribuan koneksi server API** untuk memenuhi berbagai kebutuhan bisnis digital, developer, dan reseller di seluruh Indonesia.
 
 ---
 
-## 🌟 Kenapa NetFlazz?
-✨ **Pusat API Terbesar** → Ribuan produk & layanan terkoneksi langsung  
-⚡ **Kecepatan Tinggi** → Optimasi server untuk response time instan  
-🔒 **Keamanan Kuat** → Signature & validasi multi-layer  
-📡 **Realtime Monitoring** → Status layanan transparan  
-🤝 **Integrasi Luas** → Mendukung Buyer & Seller
+## 💰 Transaksi API
+API ini melakukan **pemotongan saldo setiap kali terjadi transaksi atau permintaan (hit)** sesuai harga produk atau layanan yang digunakan.  
+Cocok untuk integrasi otomatis seperti pembelian produk digital, top-up, pembayaran tagihan, dan layanan real-time lainnya.
+
+### Kategori Transaksi API:
+- 📱 **Pulsa & Paket Data**  
+- ⚡ **PPOB (PLN, PDAM, BPJS, dan lainnya)**  
+- 💳 **E-Money & Wallet**  
+- 📡 **Pascabayar & Prabayar**  
+- 🌐 **Layanan Sosial Media (SMM)**  
+- 🧾 **Informasi Profile (Data Customer & History Transaksi)**  
+- 🏦 **Merchant (Payment Gateway & Virtual Account)**  
+- 🤖 **AI BotNet (Kecerdasan Buatan untuk Automation)**  
+
+### Ciri Khas:
+- 🔁 Saldo otomatis terpotong per transaksi  
+- ⏱️ Respon cepat & realtime  
+- 🧩 Ideal untuk sistem reseller, panel, dan platform otomatis
+
+---
+
+## 🔑 Subscribe API
+API ini bersifat **berlangganan (subscription-based)**.  
+Pengguna cukup **membeli paket berlangganan satu kali**, dan selama masa aktif, dapat **menggunakan API secara bebas tanpa pemotongan saldo per hit**.
+
+### Kategori Subscribe API:
+- 🧍 **Cek Account (User Info, Validasi, Status Akun)**  
+- 🎮 **Cek Bind MLBB (Mobile Legends Bind Checker)**  
+- 🚚 **Cek Resi & Ongkir (Integrasi Ekspedisi & RajaOngkir)**  
+- 🕋 **Agama (Jadwal Sholat, Asmaul Husna, Doa, dsb)**  
+- 🧠 **AI (Artificial Intelligence Services)**  
+- 🎨 **Canvas (Generator Banner, Poster, Mockup)**  
+- 🔄 **Converter (Text, File, Image, Currency, dsb)**  
+- 📥 **Downloader (Media Sosial, YouTube, TikTok, IG, dll)**  
+- 🎭 **Entertainment (Jokes, Quotes, Ramalan, Quiz, dsb)**  
+- 🕹️ **Game (Mini API Game Tools & Integrasi Data Player)**  
+- 🖼️ **Image Effect (Manipulasi Foto & Filter)**  
+- 🧑‍🎨 **Image Maker (Logo, Avatar, Meme Generator, dll)**  
+- 🔮 **Primbon (Zodiak, Jodoh, Rejeki, Watak, dll)**  
+- 📝 **Random Text (Kutipan, Kalimat Lucu, Fakta Unik)**  
+- ⚙️ **Server (API Tools & Utility System)**  
+
+### Ciri Khas:
+- 💳 Berlangganan terlebih dahulu sebelum akses  
+- 📅 Masa berlaku menyesuaikan paket (bulanan)  
+- 🧰 Cocok untuk developer, kreator, & layanan berbasis tools  
+
+---
+
+## ⚖️ Perbedaan **Transaksi API** & **Subscribe API**
+
+| Fitur                        | Transaksi API 💰                            | Subscribe API 🔑                           |
+|------------------------------|---------------------------------------------|--------------------------------------------|
+| **Metode Pembayaran**        | Pemotongan saldo setiap kali transaksi      | Bayar satu kali untuk masa langganan aktif |
+| **Jenis Layanan**            | Produk digital, topup, PPOB, sosial media   | Tools, AI, converter, downloader, dll      |
+| **Cocok Untuk**              | Reseller, panel topup, marketplace digital  | Developer, kreator, dan user premium       |
+| **Akses API**                | Hanya setelah saldo mencukupi               | Setelah berlangganan paket aktif           |
+| **Webhook/Callback**         | Ya, realtime                                | Tidak wajib, sesuai layanan                |
+
+---
+
+## 📎 Dokumentasi & Integrasi
+Untuk menggunakan API NetFlazz, setiap pengguna akan mendapatkan kredensial akses yang berbeda tergantung jenis API-nya:
+
+### 🔹 Transaksi API
+- **API Key** dan **PIN** akan otomatis didapatkan setelah melakukan **registrasi akun**.  
+- Keduanya dapat **diubah kapan saja** melalui menu **Profile**.  
+- Digunakan untuk autentikasi saat melakukan transaksi (top-up, pembelian, pembayaran, dll).
+
+### 🔹 Subscribe API
+- Setelah melakukan **langganan paket**, pengguna akan mendapatkan:
+  - **API KEY**  
+  - **SECRET KEY**  
+  - **Whitelist IP**
+- Semua data kredensial dapat **dilihat dan dikelola** di menu **Riwayat Transaksi Subscribe API**.  
+- Kredensial ini bersifat **unik untuk setiap langganan aktif** dan dapat diperbarui sewaktu-waktu.
 
 ---
 
@@ -45,7 +106,7 @@ untuk mendukung reseller, panel, developer, hingga penyedia layanan digital.
 
 ---
 
-<h3 align="center">🌍 Bergabunglah dengan NetFlazz</h3>
 <p align="center">
-  Jadilah bagian dari <b>pusat API server terbanyak</b> dan nikmati kemudahan integrasi tanpa batas 🚀  
+  Dibangun dengan ❤️ oleh <b>NetFlazz Developer Team</b><br/>
+  <sub>© 2025 NetFlazz. All rights reserved.</sub>
 </p>
