@@ -59,7 +59,8 @@ Pengguna cukup **membeli paket berlangganan satu kali**, dan selama masa aktif, 
 - 🧑‍🎨 **Image Maker (Logo, Avatar, Meme Generator, dll)**  
 - 🔮 **Primbon (Zodiak, Jodoh, Rejeki, Watak, dll)**  
 - 📝 **Random Text (Kutipan, Kalimat Lucu, Fakta Unik)**  
-- ⚙️ **Server (API Tools & Utility System)**  
+- ⚙️ **Server (API Tools & Utility System)**
+- 💬 **Api WhatsApp (Support All Fitur & Ai Bot)**
 
 ### Ciri Khas:
 - 💳 Berlangganan terlebih dahulu sebelum akses  
