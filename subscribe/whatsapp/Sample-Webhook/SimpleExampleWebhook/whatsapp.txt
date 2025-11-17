@@ -1,0 +1,198 @@
+[2024-04-27 03:36:48]
+{"message":"halo","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:36:59]
+{"message":"halo","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:37:05]
+{"message":"hi","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:37:13]
+{"message":"media","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:38:10]
+{"message":"media2","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:38:20]
+{"message":"media2","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:42:25]
+{"message":"sdfas","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:42:25]
+{"message":"adfs","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:48:32]
+{"message":"iyaa bosquhh","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 03:50:11]
+{"message":"apa ini mas","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 03:58:01]
+{"message":"ho","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:58:29]
+{"message":"hi","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 03:58:37]
+{"message":"ha","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 04:10:42]
+{"message":"","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:10:48]
+{"message":"masukin maaf","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:10:58]
+{"message":"masukin grup","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:11:13]
+{"message":"yang adminya","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:11:21]
+{"message":"semua gruf","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:11:27]
+{"message":"maaf","bufferImage":null,"from":"120363196717306625","participant":"6285885361262@c.us"}
+
+[2024-04-27 04:13:17]
+{"message":"udah mas","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 04:13:49]
+{"message":"list","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 04:14:04]
+{"message":"ga muncull","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 04:14:17]
+{"message":"","bufferImage":null,"from":"6283115746281"}
+
+[2024-04-27 04:14:33]
+{"message":"pesennya ghaib kaga muncul wkwkw","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 04:15:00]
+{"message":"","bufferImage":null,"from":"6283115746281"}
+
+[2024-04-27 04:15:37]
+{"message":"update biar tambah ramee","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 04:16:01]
+{"message":"ane promosi ppob sepi lebih rame wa","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 05:51:32]
+{"message":"","bufferImage":null,"from":"120363196717306625","participant":"62881023813861@c.us"}
+
+[2024-04-27 05:51:39]
+{"message":"list","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 05:53:47]
+{"message":"list","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 05:55:18]
+{"message":"asdf","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 05:56:32]
+{"message":"asf","bufferImage":null,"from":"6282298859671"}
+
+[2024-04-27 06:02:11]
+{"message":"list","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 06:03:03]
+{"message":"list item 2","bufferImage":null,"from":"6285770313479"}
+
+[2024-04-27 06:14:11]
+{"message":"muncul bosquh","bufferImage":null,"from":"6285770313479"}
+
+[2025-05-08 11:31:10]
+{"device":"6281287137725","message":"hi","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:31:11]
+{"device":"6281287137725","message":"halo","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:31:15]
+{"device":"6281287137725","message":"media","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:31:21]
+{"device":"6281287137725","message":"media2","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:31:26]
+{"device":"6281287137725","message":"button","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:35:50]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/eztgnsgy8smi6jgxapg0xk*motogp 25*yuk gas butuh 2 orang lagi","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 11:36:01]
+{"device":"6281287137725","message":"ready primary ps5 dan secondary ps4","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 11:36:09]
+{"device":"6281287137725","message":"button","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:36:22]
+{"device":"6281287137725","message":"list","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:38:02]
+{"device":"6281287137725","message":"","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:38:36]
+{"device":"6281287137725","message":"","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 11:38:38]
+{"device":"6281287137725","message":"","media":null,"from":"6282298859671","name":"M Pedia"}
+
+[2025-05-08 11:40:05]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/ec6zw04p6f23ewovgjijvv*marvels spider-man game of the year edition*(lengkap all dlc)*ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 11:53:02]
+{"device":"6281287137725","message":"*jauss menggila derr parahhhh sih*\ud83e\udd75\ud83e\udd75\ud83e\udd75*perkalian gedenya turun mulu gampang konek pula* \ud83e\udd76\ud83e\udd76 *bonus welcomenya 100%* \ud83e\udd11        \u2b07\ufe0flink eksklusif\u2b07\ufe0f\ud83d\udccc rdrect.cc\/jhsae\ud83d\udccc rdrect.cc\/qpedultr\ud83d\udccc rdrect.cc\/0n3x4\ud83d\udccc rdrect.cc\/315oh\ud83d\udccc rdrect.cc\/8gop4s\ud83d\udd25\ud835\ude40\ud835\ude49\ud835\ude45\ud835\ude4a\ud835\ude54 \ud835\ude4f\ud835\ude43\ud835\ude40 \ud835\ude42\ud835\ude3c\ud835\ude48\ud835\ude40\ud83d\udd25","media":null,"from":"120363294632637718","name":""}
+
+[2025-05-08 12:06:09]
+{"device":"6281287137725","message":"yuk butuh 1 orang secondary guys","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:06:25]
+{"device":"6281287137725","message":"mau min, ps4 yaa","media":null,"from":"120363362464393287","name":"Aditya Saputra","participant":"6285890552220@c.us"}
+
+[2025-05-08 12:06:43]
+{"device":"6281287137725","message":"ya gan betul secondary kosong","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:07:32]
+{"device":"6281287137725","message":"done min","media":null,"from":"120363362464393287","name":"Aditya Saputra","participant":"6285890552220@c.us"}
+
+[2025-05-08 12:10:02]
+{"device":"6281287137725","message":"butuh 2 orang lagi","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:11:54]
+{"device":"6281287137725","message":"yuk gasreadyprimary ps4&ps5secondary ps5! butuh 3 orang lagi !","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:13:41]
+{"device":"6281287137725","message":"https:\/\/vt.tiktok.com\/zshsat1sk\/","media":null,"from":"120363409158123610","name":""}
+
+[2025-05-08 12:14:59]
+{"device":"6281287137725","message":"","media":null,"from":"120363362464393287","name":"","participant":""}
+
+[2025-05-08 12:15:21]
+{"device":"6281287137725","message":"@6282325529171 selamat datang di grupready patungan game diskon maupun non diskon","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:53]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/hn6amshbnkf5o4jautg9e3*gran turismo 7**25th anniversary edition**ps4 & ps5**primary*280rb*secondary*170rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:53]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/dxg4mx2xhkd6zbskvtgk5r*bloodborne**ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:53]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/in6p6q7u6cbhxbrtxdlyqn*overcooked 1&2 bundle**ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:54]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/dy43uqohrqw2umgvy1tsgh*the elder scroll: v skyrim aniverysary edition**ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:55]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/in6p6q7u6cbhxbrtxdlyqn*overcooked 1&2 bundle**ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:55]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/k5ozekxz1tygksgkntacfb*sd gundam battle alieance deluxe edition**ps4 & ps5**primary*85rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:56]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/desceztfnsg2qnzdzfbm4g*naruto x boruto ultimate ninja storm connections**deluxe edition**ps4 & ps5**primary*250rb*secondary*120rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
+[2025-05-08 12:16:57]
+{"device":"6281287137725","message":"https:\/\/chat.whatsapp.com\/ec6zw04p6f23ewovgjijvv*marvels spider-man game of the year edition*(lengkap all dlc)*ps4 & ps5**primary*90rb*secondary*50rb","media":null,"from":"120363362464393287","name":"Alfalfa Game Store","participant":"6282189734997@c.us"}
+
