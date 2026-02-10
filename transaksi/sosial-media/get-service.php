@@ -40,6 +40,9 @@ if ($result['status']) {
             echo "Max: " . $service['max'] . "<br>";
             echo "Harga: " . $service['harga'] . "<br>";
             echo "Catatan: " . $service['catatan'] . "<br>";
+            echo "Average Time: " . $service['average_time'] . "<br>";
+            echo "Refill: " . $service['refill'] . "<br>";
+            echo "Cancel: " . $service['cancel'] . "<br>";
         }
     }
 } else {
