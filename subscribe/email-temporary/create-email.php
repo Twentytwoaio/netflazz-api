@@ -29,9 +29,8 @@ if ($response === false) {
 
     // Menampilkan respons API dengan format UTF-8 tanpa Unicode escape
     header('Content-Type: application/json; charset=UTF-8');
-    echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);  // Menghindari escape pada / dan karakter Unicode
+    echo json_encode($data, JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES);  
 }
 
-// Tutup koneksi cURL
 curl_close($ch);
 ?>
