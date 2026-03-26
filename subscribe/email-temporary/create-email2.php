@@ -6,7 +6,8 @@ $url = "https://api.nf22.my.id/subscribe/email-temporary";
 $data = [
     'api_key' => 'xxxxxxxxxxxxxxxxxxxxxx',      // Ganti dengan API Key Anda
     'secret_key' => 'xxxxxxxxxxxxxxxxxxxxxx',  // Ganti dengan Secret Key Anda
-    'action' => 'createEmail2'                   // Action untuk membuat email
+    'action' => 'createEmail2',                   // Action untuk membuat email
+    'custom_name' => 'randywijaya'                // Optional jika ingin custome nama email
 ];
 
 // Inisiasi cURL
