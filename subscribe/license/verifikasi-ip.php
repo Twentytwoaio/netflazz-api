@@ -1,7 +1,7 @@
 <?php
 /**
  * Sample Code - Verifikasi IP Server
- * API License NF22
+ * API License22 - NetFlazz
  * Platform: Server / PHP
  *
  * Cara penggunaan:
