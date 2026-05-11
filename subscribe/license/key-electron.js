@@ -1,6 +1,6 @@
 /**
  * Sample Code - Cek & Submit Aktivasi Key
- * API License NF22
+ * API License22 - NetFlazz
  * Platform: Desktop / Electron (Node.js)
  *
  * Alur:
