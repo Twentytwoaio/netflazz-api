@@ -28,7 +28,9 @@ Cocok untuk integrasi otomatis seperti pembelian produk digital, top-up, pembaya
 - ⚡ **PPOB (PLN, PDAM, BPJS, dan lainnya)**  
 - 💳 **E-Money & Wallet**  
 - 📡 **Pascabayar & Prabayar**  
-- 🌐 **Layanan Sosial Media (SMM)**  
+- 🌐 **Layanan Sosial Media (SMM)**
+- 📱 **Otp Temporary (Nomor Virtual)**
+- 📞 **Getcontact (Pengecekan Nomor)**
 - 🧾 **Informasi Profile (Data Customer & History Transaksi)**  
 - 🏦 **Merchant (Payment Gateway & Virtual Account)**  
 - 🤖 **AI BotNet (Kecerdasan Buatan untuk Automation)**  
@@ -61,6 +63,8 @@ Pengguna cukup **membeli paket berlangganan satu kali**, dan selama masa aktif, 
 - 📝 **Random Text (Kutipan, Kalimat Lucu, Fakta Unik)**  
 - ⚙️ **Server (API Tools & Utility System)**
 - 💬 **Api WhatsApp (Support All Fitur & Ai Bot)**
+- 📧 **Email Temporary (Email Sementara)**
+- 🛡️ **License Code (License Source Code)**
 
 ### Ciri Khas:
 - 💳 Berlangganan terlebih dahulu sebelum akses  
